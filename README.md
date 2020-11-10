@@ -12,8 +12,9 @@ Un grupo de jovenes en la capital colombiana Bogotá, apasionados por el fútbol
 Mira la dinamica, historia y grandes momentos de este gran deporte en el siguiente [**Link**][Teqball]
 [Teqball]: https://www.teqball.com/en/the-sport
 
+Creado por el increible Tato Team 
 
-
+Incluye ejemplo en windows linux y mac 
 ### Quien es el mas crack de los Teqers? 
 
 Su CEO Carlos Pinilla y el Vice Cristian Ballesteros 
