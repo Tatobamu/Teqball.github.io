@@ -17,4 +17,6 @@ Creado por el increible Tato Team
 Incluye ejemplo en windows linux y mac 
 ### Quien es el mas crack de los Teqers? 
 
+Disponible para todas las edades 
+
 Su CEO Carlos Pinilla y el Vice Cristian Ballesteros 
